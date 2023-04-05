@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on as a **Full Stack Developer @ European Dynamics**
+🌱 I’m currently learning **AI - Machine Learning**
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theodoros-theocharis-025161165/)
+
 <!--
 **theotheo7/theotheo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
