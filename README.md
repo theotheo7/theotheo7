@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on as a **Full Stack Developer @ European Dynamics**
+- 🔭 I’m currently working as a **Full Stack Developer @ European Dynamics**
 - 🌱 I’m currently learning **AI - Machine Learning**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theodoros-theocharis-025161165/)
 
